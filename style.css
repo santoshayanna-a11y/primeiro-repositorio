@@ -1,9 +1,15 @@
 body {
-    background-color: skyblue;
-    color: navy;
+    background-color: navy;   /* cor de fundo*/
+    color: skyblue;     /* cor da escrita*/
 }
 
 h1  {
- font-size: 30px;
- text-align: center;
+  font-size: 30px;  /*tamanho da fonte*/
+  text-align: center;  /*centralizado*/
+  text-transform: uppercase; /*letras maiúsculas*/
+}
+
+p {
+font-size:  16px;
+color: mediumpurple;
 }
