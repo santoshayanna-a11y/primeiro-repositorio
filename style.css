@@ -10,6 +10,20 @@ header {
     color: aqua;
 }
 
+    section {
+background-color: #1b7fcccc;
+padding-bottom: 80px ;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+    }
+
+.chamada-texto{
+margin-right: 5%;
+
+}
+
+
 h1  {
     font-size: 30px;  /*tamanho da fonte*/
     text-align: center;  /*centralizado*/
