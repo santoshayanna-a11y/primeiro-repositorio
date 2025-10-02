@@ -1,6 +1,7 @@
 body {
     background-color: navy;   /* cor de fundo*/
     color: skyblue;     /* cor da escrita*/
+    font-family:"EB Garamond", sans-serif ;
 }
 
 header {
