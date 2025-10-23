@@ -1,6 +1,6 @@
 body {
     background-color: navy;   /* cor de fundo*/
-    color: skyblue;     /* cor da escrita*/
+    color: rgb(209, 242, 255);     /* cor da escrita*/
     font-family:"EB Garamond", sans-serif ;
     margin: 0px;
     margin-bottom: 100px;
@@ -35,7 +35,7 @@ h1  {
 
 p {
     font-size:  16px;
-    color: rgb(141, 121, 180);
+    color: rgb(45, 202, 245);
 }
 
 .categoria{
